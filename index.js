@@ -122,9 +122,9 @@ ${licenseObj[license]}
 6.[License](#License)<br>
 7.[Screenshots](#Screenshots)<br>
 8.[Questions](#Questions)<br>
-    &nbsp 1a.[GitHub User Name](#Github-User-Name)<br>
-    &nbsp 2a.[Email](#Email)<br>
-    &nbsp 3a.[Deployed Link](#Deployed-Link)<br>
+    ----> 1a.[GitHub User Name](#Github-User-Name)<br>
+    ----> 2a.[Email](#Email)<br>
+    ----> 3a.[Deployed Link](#Deployed-Link)<br>
 
 
 ## Description 
