@@ -1,6 +1,6 @@
 
 # Read Me Generator
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Table of Contents
 
@@ -50,9 +50,9 @@ MIT License
 <a id="s"/>
 ## Screenshots
 
-[![Screenshot 1](images/readme_terminal.png)]
-[![Screenshot 2](images/readme_file1.png)]
-[![Screenshot 3](images/readme_file2.png)]
+![Screenshot 1](images/readme_terminal.png)
+![Screenshot 2](images/readme_file1.png)
+![Screenshot 3](images/readme_file2.png)
 
 <a id="q"/>
 ## Questions

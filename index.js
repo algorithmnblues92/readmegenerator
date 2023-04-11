@@ -126,55 +126,55 @@ ${licenseObj[license]}
     2.[Email](#e)
     3.[Deployed Link](#dL)
 
-<a id="description"/>
+
 ## Description 
 
 ${description}
 
-<a id="iI"/>
+
 ## Installation Instructions
 
 ${installationInstructions}
 
-<a id="uI"/>
+
 ## Usage Information
 
 ${usageInformation}
 
-<a id="cG"/>
+
 ## Contribution Guidelines
 
 ${contributionGuidelines}
 
-<a id="tI"/>
+
 ## Test Instructions
 
 ${testInstructions}
 
-<a id="l"/>
+
 ## License
 
 ${license}
 ${licenseLink[license]}
 
-<a id="s"/>
+
 ## Screenshots
 
 ${screenshots}
 ${screenshots2}
 ${screenshots3}
 
-<a id="q"/>
+
 ## Questions
-<a id="gUN"/>
+
 ###Github User Name
 
 ${githubUserName}
-<a id="e"/>
+
 ###Email
 
 ${email}
-<a id="dL"/>
+
 ###Deployed Link:
 
 ${deployedLink}
@@ -186,31 +186,31 @@ ${deployedLink}
 //TODO: Make array for license badge and links
 
 const licenseObj = {
- Apache: "[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)]",
+ Apache: "![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)",
 
- 'GNU General Public License 3.0': "[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)]",
+ 'GNU General Public License 3.0': "![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)",
 
- 'MIT License': "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]",
+ 'MIT License': "![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)",
 
- 'BSD 2-Clause "Simplified" License': "[![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)]",
+ 'BSD 2-Clause "Simplified" License': "![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)",
 
- 'BSD 3-Clause "New" or "Revised" License': "[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)]",
+ 'BSD 3-Clause "New" or "Revised" License': "![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)",
 
- 'Boost Software License 1.0': "[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)]",
+ 'Boost Software License 1.0': "![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)",
 
-  'Creative Commons Zero v1.0 Universal': "[![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)]",
+  'Creative Commons Zero v1.0 Universal': "![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)",
 
-  'Eclipse Public License 2.0': "[![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)]",
+  'Eclipse Public License 2.0': "![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)",
 
-  'GNU Affero General Public License v3.0': "[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)]",
+  'GNU Affero General Public License v3.0': "![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)",
 
-  'GNU General Public License v2.0': "[![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)]",
+  'GNU General Public License v2.0': "![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)",
 
-  'GNU Lesser General Public License v2.1': "[![License: GPL v2.1](https://img.shields.io/badge/License-GPL_v2.1-blue.svg)]",
+  'GNU Lesser General Public License v2.1': "![License: GPL v2.1](https://img.shields.io/badge/License-GPL_v2.1-blue.svg)",
 
-  'Mozilla Public License 2.0': "[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)]",
+  'Mozilla Public License 2.0': "![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)",
 
-  'The Unlicense': "[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)]",
+  'The Unlicense': "![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)",
 
 }
 
