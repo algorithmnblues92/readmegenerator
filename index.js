@@ -114,17 +114,17 @@ ${licenseObj[license]}
 
 ## Table of Contents
 
-1.[Description](#description)
-2.[Installation Instructions](#iI)
-3.[Usage Information](#uI)
-4.[Contribution Guidelines](#cG)
-5.[Test Instructions](#tI)
-6.[License](#l)
-7.[Screenshots](#s)
-8.[Questions](#q)
-    1.[GitHub User Name](#gUN)
-    2.[Email](#e)
-    3.[Deployed Link](#dL)
+1.[Description](#Description)
+2.[Installation Instructions](#Installation-Instructions)
+3.[Usage Information](#Usage-Information)
+4.[Contribution Guidelines](#Contribution-Guidelines)
+5.[Test Instructions](#Test-Instructions)
+6.[License](#License)
+7.[Screenshots](#Screenshots)
+8.[Questions](#Questions)
+    1.[GitHub User Name](#Github-User-Name)
+    2.[Email](#Email)
+    3.[Deployed Link](#Deployed-Link)
 
 
 ## Description 
@@ -167,15 +167,15 @@ ${screenshots3}
 
 ## Questions
 
-###Github User Name
+### Github User Name
 
 ${githubUserName}
 
-###Email
+### Email
 
 ${email}
 
-###Deployed Link:
+### Deployed Link:
 
 ${deployedLink}
 
