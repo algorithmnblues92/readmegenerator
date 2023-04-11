@@ -4,17 +4,17 @@
 
 ## Table of Contents
 
-1.[Description](#description)
-2.[Installation Instructions](#Installation-Instructions)
-3.[Usage Information](#Usage-Information)
-4.[Contribution Guidelines](#Contribution-Guidelines)
-5.[Test Instructions](#Test-Instructions)
-6.[License](#License)
-7.[Screenshots](#Screenshots)
-8.[Questions](#Questions)
-    1.[GitHub User Name](#Github-User-Name)
-    2.[Email](#Email)
-    3.[Deployed Link](#Deployed-Link)
+1.[Description](#Description)<br>
+2.[Installation Instructions](#Installation-Instructions)<br>
+3.[Usage Information](#Usage-Information)<br>
+4.[Contribution Guidelines](#Contribution-Guidelines)<br>
+5.[Test Instructions](#Test-Instructions)<br>
+6.[License](#License)<br>
+7.[Screenshots](#Screenshots)<br>
+8.[Questions](#Questions)<br>
+    1a.[GitHub User Name](#Github-User-Name)<br>
+    2a.[Email](#Email)<br>
+    3a.[Deployed Link](#Deployed-Link)<br>
 
 
 ## Description 
